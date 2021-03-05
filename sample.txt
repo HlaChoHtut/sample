@@ -1,1 +1,1 @@
-01. This is my first commint on GitHub
+01. This is my first commit on GitHub
